@@ -41,6 +41,7 @@ As the developer, I was responsible for designing the user interface, implementi
 This project highlights my skills in web development and dynamic content management.
 
 ### Project 2: [Randet]
+https://randetinternational.com/
 
 **Abroad Studies** is a collaborative web application developed to assist students in exploring and planning educational opportunities abroad.
 
