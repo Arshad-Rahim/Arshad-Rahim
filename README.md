@@ -69,7 +69,8 @@ This ongoing project reflects our commitment to providing valuable resources for
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Rahim&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Rahim&show_icons=true&theme=tokyonight)
+
 
 ## 🌐 Connect with me
 
